@@ -1,5 +1,4 @@
-![Header](./![github-header-image](https://github.com/DeathGrip777/DeathGrip777/assets/172838975/86a16f41-7c19-405e-9b24-9e7d36b17ec7)
-)
+![logo](https://github.com/DeathGrip777/DeathGrip777/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Manav Jeet</h1>
 <h3 align="center">A passionate Designer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
